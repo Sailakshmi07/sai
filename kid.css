@@ -1,0 +1,77 @@
+.khead{
+    color:brown;
+    font-family:"roboto";
+    font-size: 20px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;
+}
+.kcard{
+    background-color: rgb(230, 241, 241);
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow:  5px 5px 5px 5px;
+    margin:20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.kfelx1{
+    display: flex;
+}
+.kcontent{
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+}
+.kfelx2{
+    display: flex;
+}
+.kfelx3{
+    display: flex;
+}
+.kfelx4{
+    display: flex;
+}
+.kcard{
+    margin-left: 60px;
+}
+h1{
+    text-align: center;
+
+}
+
+.bu{
+    width: 100%;
+    background-color: rgb(160, 166, 153);
+}
+
+.my-button{
+    font-size: 20px;
+    font-family: 20px;
+    padding: 5px;
+    margin-right:20px;
+    padding-top: 5px;
+    float: right;
+    border: 20px;
+    text-emphasis-color: blue;
+    background-color: rgba(200, 204, 204, 0.684);
+   
+    
+}
+a{
+   text-decoration: none;
+}
+.my-button1{
+    float: left;
+
+}
+.l{
+   margin-top: 50px;
+}

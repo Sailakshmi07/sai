@@ -1,0 +1,59 @@
+.whead{
+    color:brown;
+    font-family:"roboto";
+    font-size: 20px;
+    background-color: rgba(139, 174, 239, 0.658);
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;
+}
+.wcard{
+    background-color: rgb(230, 241, 241);
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow:  5px 5px 5px 5px;
+    margin:20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.bu{
+    width: 100%;
+    background-color: rgb(160, 166, 153);
+   
+}
+
+.my-button{
+    font-size: 20px;
+    font-family: 20px;
+    padding: 5px;
+    margin-right:20px;
+    padding-top: 5px;
+    float: right;
+    border: 20px;
+    text-emphasis-color: blue;
+    background-color: rgba(200, 204, 204, 0.684);
+   
+    
+}
+a{
+   text-decoration: none;
+}
+.l{
+    text-align: center;
+}
+.wfelx1{
+    display: flex;
+}
+.wcontent{
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+}
+.wfelx2{
+    display: flex;
+}

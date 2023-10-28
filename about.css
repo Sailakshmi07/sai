@@ -1,0 +1,66 @@
+body{
+    background-color: lightblue;
+}
+footer{
+    background-color:  rgba(52, 49, 49, 0.68);
+    text-align: center;
+    padding: 25px;
+    color:white;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+legend {
+background-color: gray;
+color: white;
+padding: 5px 10px;
+}
+.a{
+ display: flex;
+ background-color:rgba(10, 10, 10, 0.68);
+  text-align: center;
+  padding: 20px;
+  color:white;
+}  
+.s{
+    border:7px;
+    border-color:whitesmoke;
+    border-style:solid;
+    border-radius: 50%;
+    height: 50%;
+    width: 50px;
+    padding: 50px;
+    margin-left: 10px;
+    
+}
+.bu{
+    width: 100%;
+    background-color: rgb(160, 166, 153);
+    padding: 0px;
+}
+
+.my-button{
+    font-size: 20px;
+    font-family: 20px;
+    padding: 5px;
+    margin-right:20px;
+    float: right;
+    border: 20px;
+    text-emphasis-color: blue;
+    background-color: rgba(200, 204, 204, 0.684);
+   
+    
+}
+a{
+   text-decoration: none;
+}
+.my-button1{
+    float: left;
+
+}
+.l{
+   margin-top: 50px;
+   text-align: center;
+}
+
+
